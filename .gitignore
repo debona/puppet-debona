@@ -1,0 +1,9 @@
+/.bundle
+/.librarian
+/.projects
+/.snapshot
+/.tmp
+/bin
+/log
+/tmp
+/vendor/gems/
