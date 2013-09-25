@@ -10,7 +10,7 @@ Install all my stuff for Mac OS X.
 - [x] GitX.app
 - [ ] Marked.app
 - [ ] Pocket.app
-- [ ] Postgres.app
+- [x] Postgres.app
 - [ ] Qdesktop.app
 - [ ] Sparrow.app
 - [ ] Spotify.app
@@ -19,7 +19,7 @@ Install all my stuff for Mac OS X.
 - [ ] Vagrant
 - [ ] VirtualBox.app
 - [ ] iTerm.app
-- [ ] pgAdmin3.app
+- [x] pgAdmin3.app
 
 - ?? [ ] Shortcat.app
 
@@ -39,4 +39,6 @@ github "alfred", "1.1.4"
 github "better_touch_tools", "1.0.0"
 github "dropbox", "1.1.1"
 github "gimp", "1.0.0"
+github "postgresapp", "1.0.0"
+github "pgadmin3",    "1.0.0"
 ```
