@@ -33,6 +33,11 @@ class debona {
     }
   }
 
+  # Machines
+  include virtualbox
+  include vagrant
+  include heroku
+
   # DB
   include postgresapp
   include pgadmin3

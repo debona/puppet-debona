@@ -18,8 +18,9 @@ Install all my stuff for Mac OS X.
 - [x] The Unarchiver.app
 - [x] java
 - [x] ruby
-- [ ] Vagrant
-- [ ] VirtualBox.app
+- [x] Vagrant
+- [x] VirtualBox.app
+- [x] Heroku cli
 - [x] iTerm.app
 - [x] pgAdmin3.app
 
@@ -48,4 +49,7 @@ github "java",        "1.1.0"
 github "sublime_text_2", "1.1.2"
 github "iterm2",         "1.0.3"
 github "ruby",       "6.3.4"
+github "virtualbox", "1.0.5"
+github "vagrant",    "2.0.12"
+github "heroku",     "2.0.0"
 ```
