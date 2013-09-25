@@ -12,8 +12,8 @@ Install all my stuff for Mac OS X.
 - [ ] Marked.app
 - [ ] Pocket.app
 - [x] Postgres.app
-- [ ] Sparrow.app
-- [ ] Spotify.app
+- [x] Sparrow.app
+- [x] Spotify.app
 - [x] Sublime Text.app
 - [x] The Unarchiver.app
 - [x] java
@@ -52,4 +52,6 @@ github "ruby",       "6.3.4"
 github "virtualbox", "1.0.5"
 github "vagrant",    "2.0.12"
 github "heroku",     "2.0.0"
+github "sparrow",     "1.0.0"
+github "spotify",     "1.0.1"
 ```

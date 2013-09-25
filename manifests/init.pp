@@ -18,9 +18,11 @@ class debona {
       source   => 'https://theunarchiver.googlecode.com/files/TheUnarchiver3.8.zip',
     }
   }
-
+  include sparrow
+  include spotify
   include dropbox
 
+  # Sometimes, it happens
   include gimp
 
   # Basic development tools
