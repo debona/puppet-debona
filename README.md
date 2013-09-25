@@ -2,14 +2,38 @@
 
 Install all my stuff for Mac OS X.
 
+- [x] Alfred 2.app
+- [ ] BetterTouchTool.app
+- [ ] Dash.app
+- [ ] Dropbox.app
+- [ ] GIMP.app
+- [ ] GitX.app
+- [ ] Marked.app
+- [ ] Pocket.app
+- [ ] Postgres.app
+- [ ] Qdesktop.app
+- [ ] Sparrow.app
+- [ ] Spotify.app
+- [ ] Sublime Text.app
+- [ ] The Unarchiver.app
+- [ ] Vagrant
+- [ ] VirtualBox.app
+- [ ] iTerm.app
+- [ ] pgAdmin3.app
+
+- ?? [ ] Shortcat.app
+
+
 ## Usage
 
 ```puppet
 include debona
 ```
 
-## Required Puppet Modules
+## Required Puppet Modules: Puppetfile
 
-* `boxen`, >= 1.2
-* `repository`, >= 2.0
-* `stdlib`, >= 4.0
+```ruby
+# debona
+mod 'debona', :git => 'git://github.com/debona/puppet-debona.git'
+github "alfred",  "1.1.4"
+```

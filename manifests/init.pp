@@ -8,4 +8,6 @@ class debona {
   
   notify { 'Welcome debona': }
   
+  include alfred
+  
 }
