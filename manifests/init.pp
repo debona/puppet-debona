@@ -9,5 +9,7 @@ class debona {
   notify { 'Welcome debona': }
   
   include alfred
-  
+
+  include better_touch_tools
+
 }

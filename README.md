@@ -2,8 +2,8 @@
 
 Install all my stuff for Mac OS X.
 
-- [x] Alfred 2.app
-- [ ] BetterTouchTool.app
+- [X] Alfred 2.app
+- [X] BetterTouchTool.app
 - [ ] Dash.app
 - [ ] Dropbox.app
 - [ ] GIMP.app
@@ -36,4 +36,5 @@ include debona
 # debona
 mod 'debona', :git => 'git://github.com/debona/puppet-debona.git'
 github "alfred",  "1.1.4"
+github "better_touch_tools",  "1.0.0"
 ```
