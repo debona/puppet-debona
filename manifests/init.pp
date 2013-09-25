@@ -39,4 +39,5 @@ class debona {
 
   # Languages
   include java
+  include ruby::2_0_0
 }

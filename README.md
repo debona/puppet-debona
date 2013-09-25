@@ -17,6 +17,7 @@ Install all my stuff for Mac OS X.
 - [x] Sublime Text.app
 - [x] The Unarchiver.app
 - [x] java
+- [x] ruby
 - [ ] Vagrant
 - [ ] VirtualBox.app
 - [x] iTerm.app
@@ -46,4 +47,5 @@ github "chrome",      "1.1.1"
 github "java",        "1.1.0"
 github "sublime_text_2", "1.1.2"
 github "iterm2",         "1.0.3"
+github "ruby",       "6.3.4"
 ```
