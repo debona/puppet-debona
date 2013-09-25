@@ -24,6 +24,8 @@ class debona {
   include gimp
 
   # Basic development tools
+  include sublime_text_2
+  include iterm2::stable
   unless defined Package['gitx'] {
     package { 'gitx':
       provider => 'appdmg_eula',
