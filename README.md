@@ -12,11 +12,10 @@ Install all my stuff for Mac OS X.
 - [ ] Marked.app
 - [ ] Pocket.app
 - [x] Postgres.app
-- [ ] Qdesktop.app
 - [ ] Sparrow.app
 - [ ] Spotify.app
 - [ ] Sublime Text.app
-- [ ] The Unarchiver.app
+- [x] The Unarchiver.app
 - [x] java
 - [ ] Vagrant
 - [ ] VirtualBox.app
