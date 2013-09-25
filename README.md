@@ -4,6 +4,7 @@ Install all my stuff for Mac OS X.
 
 - [x] Alfred 2.app
 - [x] BetterTouchTool.app
+- [x] Chrome
 - [ ] Dash.app
 - [x] Dropbox.app
 - [x] GIMP.app
@@ -16,6 +17,7 @@ Install all my stuff for Mac OS X.
 - [ ] Spotify.app
 - [ ] Sublime Text.app
 - [ ] The Unarchiver.app
+- [x] java
 - [ ] Vagrant
 - [ ] VirtualBox.app
 - [ ] iTerm.app
@@ -41,4 +43,6 @@ github "dropbox", "1.1.1"
 github "gimp", "1.0.0"
 github "postgresapp", "1.0.0"
 github "pgadmin3",    "1.0.0"
+github "chrome",      "1.1.1"
+github "java",        "1.1.0"
 ```

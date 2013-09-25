@@ -8,8 +8,8 @@ class debona {
   
   notify { 'Welcome debona': }
   
+  include chrome
   include alfred
-
   include better_touch_tools
 
   include dropbox
@@ -23,4 +23,8 @@ class debona {
     }
   }
 
+  include postgresapp
+  include pgadmin3
+
+  include java
 }
